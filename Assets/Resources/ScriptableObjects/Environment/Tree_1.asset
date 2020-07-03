@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5068fd3c8af650a46b79e6f0ea9f9569, type: 3}
+  m_Name: Tree_1
+  m_EditorClassIdentifier: 
+  BuildingName: Tree
+  Description: "\u0401\u043B\u043A\u0430"
+  Size: {x: 1, y: 1}
+  Prefab: {fileID: 5603066451666088160, guid: e7d7c573cdca5eb4dac4260240aee3cc, type: 3}
+  Icon: {fileID: 21300000, guid: 9f40809394432fa4ead075b600d5b2d0, type: 3}
